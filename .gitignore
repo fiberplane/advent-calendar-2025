@@ -40,6 +40,7 @@ Thumbs.db
 .project
 .classpath
 .settings/
+.claude
 
 # Testing
 coverage/
@@ -50,4 +51,4 @@ coverage/
 *.temp
 .temp/
 
-.claude
+
