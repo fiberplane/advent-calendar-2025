@@ -14,10 +14,10 @@ This is the first part of a series where we'll build a complete Advent Calendar 
 
 Follow along with each part of the series by checking out the corresponding branch or tag:
 
-| Part       | Description             | Branch                                                                     | Tag                                                                                          | Video       |
-| ---------- | ----------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| **Part 1** | Static Assets Blueprint | [`part-1`](https://github.com/fiberplane/advent-calendar-2025/tree/part-1) | [`v0.1-part-1`](https://github.com/fiberplane/advent-calendar-2025/releases/tag/v0.1-part-1) | Coming soon |
-| **Part 2** | DOM Manipulation        | `part-2`                                                                   | `v1.                                                                                         | Coming soon |
+| Part       | Description             | Branch                                                                     | Tag                                                                                          | Video                                                                               |
+| ---------- | ----------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Part 1** | Static Assets Blueprint | [`part-1`](https://github.com/fiberplane/advent-calendar-2025/tree/part-1) | [`v0.1-part-1`](https://github.com/fiberplane/advent-calendar-2025/releases/tag/v0.1-part-1) | https://www.youtube.com/watch?v=iCNOyiM3SPA&list=PLDPOzJt1UNU2meOI8QaJUAj_s6vDaSKGN |
+| **Part 2** | DOM Manipulation        | `part-2`                                                                   | `v1.                                                                                         | Coming soon                                                                         |
 
 ### How to Use Different Parts
 
