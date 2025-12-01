@@ -10,6 +10,38 @@ This is the first part of a series where we'll build a complete Advent Calendar 
 
 > 💡 **Note**: The interactive JavaScript functionality will be added in future parts of this series. This version provides the foundation and visual design to get you started!
 
+## Tutorial Series Navigation
+
+Follow along with each part of the series by checking out the corresponding branch or tag:
+
+| Part       | Description             | Branch                                                                     | Tag                                                                                          | Video       |
+| ---------- | ----------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
+| **Part 1** | Static Assets Blueprint | [`part-1`](https://github.com/fiberplane/advent-calendar-2025/tree/part-1) | [`v1.0-part-1`](https://github.com/fiberplane/advent-calendar-2025/releases/tag/v1.0-part-1) | Coming soon |
+| **Part 2** | DOM Manipulation        | `part-2`                                                                   | `v1.                                                                                         | Coming soon |
+
+### How to Use Different Parts
+
+**To start from a specific part:**
+
+```bash
+# Clone the repository
+git clone https://github.com/fiberplane/advent-calendar-2025.git
+cd advent-calendar-2025
+
+# Checkout the part you want to follow
+git checkout part-1  # or part-2, part-3, etc.
+
+# Install and run
+npm install
+npm run dev
+```
+
+**To see the latest complete version:**
+
+```bash
+git checkout main
+```
+
 ## Quick Start
 
 ### Prerequisites
