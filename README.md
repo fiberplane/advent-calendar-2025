@@ -16,7 +16,7 @@ Follow along with each part of the series by checking out the corresponding bran
 
 | Part       | Description             | Branch                                                                     | Tag                                                                                          | Video       |
 | ---------- | ----------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| **Part 1** | Static Assets Blueprint | [`part-1`](https://github.com/fiberplane/advent-calendar-2025/tree/part-1) | [`v1.0-part-1`](https://github.com/fiberplane/advent-calendar-2025/releases/tag/v1.0-part-1) | Coming soon |
+| **Part 1** | Static Assets Blueprint | [`part-1`](https://github.com/fiberplane/advent-calendar-2025/tree/part-1) | [`v1.0-part-1`](https://github.com/fiberplane/advent-calendar-2025/releases/tag/v0.1-part-1) | Coming soon |
 | **Part 2** | DOM Manipulation        | `part-2`                                                                   | `v1.                                                                                         | Coming soon |
 
 ### How to Use Different Parts
